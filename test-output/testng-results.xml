@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43164" started-at="2019-04-12T18:01:36Z" finished-at="2019-04-12T18:02:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43164" started-at="2019-04-12T18:01:36Z" finished-at="2019-04-12T18:02:19Z">
+      <class name="com.zoopla.Test.AgentsPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.zoopla.Test.AgentsPageTest@1b604f19]" name="setup" is-config="true" duration-ms="42095" started-at="2019-04-12T23:31:36Z" finished-at="2019-04-12T23:32:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="agenttext()[pri:0, instance:com.zoopla.Test.AgentsPageTest@1b604f19]" name="agenttext" duration-ms="50" started-at="2019-04-12T23:32:18Z" finished-at="2019-04-12T23:32:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- agenttext -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.zoopla.Test.AgentsPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="1006" started-at="2019-04-12T23:32:18Z" finished-at="2019-04-12T23:32:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.zoopla.Test.AgentsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
